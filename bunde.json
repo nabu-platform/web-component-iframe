@@ -1,0 +1,15 @@
+{
+    "name": "iframe",
+    "version": "0.1",
+    "resources": {
+      "iframe.js": {
+          "url": "iframe.js"
+      },
+      "iframe.tpl": {
+          "url": "iframe.tpl"
+      },
+      "iframe.scss": {
+          "url": "iframe.scss"
+      }
+    }
+}
